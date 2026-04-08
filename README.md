@@ -108,12 +108,12 @@ Here are the projects that best represent my hands‑on skills:
 ---
 # 🧩 Skills Snapshot
 
-**Infrastructure:** Windows Server, Active Directory, Group Policy, DNS  
-**Cloud:** Azure AD, IAM, RBAC, identity security  
-**Networking:** Subnetting, DHCP, routing basics, packet analysis  
-**Security:** Hardening, misconfiguration analysis, attack paths, OSINT  
-**Tools:** PowerShell, Wireshark, Nmap, VirtualBox, VMware  
-**Documentation:** Diagrams, lab write‑ups, troubleshooting notes
+- *Infrastructure:* Windows Server, Active Directory, Group Policy, DNS  
+- *Cloud:* Azure AD, IAM, RBAC, identity security  
+- *Networking:* Subnetting, DHCP, routing basics, packet analysis  
+- *Security:* Hardening, misconfiguration analysis, attack paths, OSINT  
+- *Tools:* PowerShell, Wireshark, Nmap, VirtualBox, VMware  
+- *Documentation:* Diagrams, lab write-ups, troubleshooting notes  
 ---
 
 # 💡 My Approach
