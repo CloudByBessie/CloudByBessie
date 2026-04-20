@@ -1,4 +1,6 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d14df7e1-0bd1-4ebb-8709-dd7d87ab37d3" />
+<p align="center">
+<img width="800"  alt="CloudByBessieRepositoryLogoUpgraded" src="https://github.com/user-attachments/assets/ba6923d6-149e-4ed1-81b4-3623778b7b00" />
+</p>
 
 
 <h1 align="center">👋 Hi, I’m Bessie</h1>
