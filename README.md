@@ -6,86 +6,84 @@
 <h1 align="center">👋 Hi, I’m Bessie</h1>
 
 <p align="center">
-  <em>Cloud & Server Administration | Security‑Minded | Hands‑On Builder</em>
+  <em>Cloud & Server Administration • Identity & Security • Hands‑On Builder</em>
 </p>
-
-<p align="center"><em>Current Mission: Build, secure, and document a full enterprise environment — one lab at a time.</em></p>
 
 <p align="center">
-  🔗 <a href="https://github.com/CloudByBessie/Server-and-Cloud"><strong>Explore my Server & Cloud Repository</strong></a>
+  I design and document enterprise‑grade environments through real labs, real troubleshooting, and real security engineering.
 </p>
 
+<p align="center">
+  <strong>Current Mission:</strong> Build, secure, and refine a full multi‑server enterprise environment — one lab at a time.
+</p>
 
-
----
-
-# ☁️ About Me
-
-I’m a hands-on learner focused on **cloud infrastructure, server administration, identity, networking, and security**.  
-My approach is simple:
-
-**I build it. I break it. I understand it. I document it.**
-
-Everything on this GitHub reflects real labs, real troubleshooting, and real growth — not theory.
-
+<p align="center">
+  🔗 <a href="https://github.com/CloudByBessie/Server-and-Cloud"><strong>Explore My Server & Cloud Portfolio</strong></a>
+</p>
 
 ---
 
-# ✈️ My Learning Philosophy
+## ☁️ About Me
+
+I’m a builder at heart — focused on **cloud infrastructure, server administration, identity, networking, and security**.
+
+My work is grounded in one philosophy:
+
+> **Build it. Break it. Understand it. Document it.**
+
+Everything here reflects real environments, real troubleshooting, and real growth.  
+No theory without practice. No shortcuts.
+
+---
+
+## ✈️ My Learning Philosophy
 
 I use aviation‑inspired analogies to make complex systems intuitive:
 
-- Identity is your boarding pass  
-- DNS is your air traffic control  
-- Servers are your terminals  
-- Policies are your flight rules  
+- **Identity** → your boarding pass  
+- **DNS** → your air traffic control  
+- **Servers** → your terminals  
+- **Policies** → your flight rules  
 
-This theme carries through my **Lessons Learned** series, while my labs dive into the more intense **CloudTech vs Thunderbyte** Red vs Blue simulation.
+This mindset shapes my **Lessons Learned** series and supports the more advanced **CloudTech vs Thunderbyte** Red vs Blue universe — where I simulate real‑world attack and defense.
 
-Together, they form a complete journey from fundamentals to real‑world attack and defense.
+Together, they form a complete journey from fundamentals to enterprise‑grade security engineering.
 
 ---
 
-
-
-
-# 🚀 What You'll Find Here
+## 🚀 What You'll Find Here
 
 - 🏢 **Active Directory & Windows Server labs**  
 - 🌐 **DNS configuration & troubleshooting**  
-- ☁️ **Azure fundamentals & cloud concepts**  
 - 🔐 **Security‑focused configurations & hardening**  
-- 🛠️ **Step‑by‑step documentation + lessons learned**  
 - ⚔️ **CloudTech vs Thunderbyte Red vs Blue simulations**  
+- 🛠️ **Step‑by‑step documentation + lessons learned**
 
 ---
-# 📌 Featured Projects
 
-Here are the projects that best represent my hands‑on skills:
+## 📌 Featured Projects
 
-- **Server & Cloud — Full Lab Environment**  
-  Multi‑machine virtualization, AD, DNS, identity, and security labs  
-  🔗 https://github.com/CloudByBessie/Server-and-Cloud
+### **Server & Cloud — Full Lab Environment**  
+Multi‑machine virtualization, AD, DNS, identity, and security labs  
+🔗 https://github.com/CloudByBessie/Server-and-Cloud
 
-- **CloudTech vs Thunderbyte — Red vs Blue Simulation**  
-  A cinematic attack/defense learning universe  
-  🔗 https://github.com/CloudByBessie/Server-and-Cloud/tree/main/Labs
+### **CloudTech vs Thunderbyte — Red vs Blue Simulation**  
+A cinematic attack/defense learning universe  
+🔗 https://github.com/CloudByBessie/Server-and-Cloud/tree/main/Labs
+
 ---
 
-
-# 🧠 Certifications & Training
+## 🧠 Certifications & Training
 
 - EC‑Council Certified Cybersecurity Technician (CCT)  
 - CompTIA Network+  
 - CompTIA Security+  
 - Microsoft SC‑900  
-- OSC (OSINT Certification)  
+- OSC (OSINT Certification)
 
 ---
 
-
-
-# 🎯 What I'm Working On
+## 🎯 What I'm Working On
 
 - Building a multi‑server **Active Directory** environment  
 - Strengthening **DNS, identity, and authentication** knowledge  
@@ -94,7 +92,7 @@ Here are the projects that best represent my hands‑on skills:
 
 ---
 
-# 🔧 Technologies I Use
+## 🔧 Technologies I Use
 
 <p>
   <img src="https://img.shields.io/badge/Windows%20Server-2019%2F2022-0078D6?logo=windows&logoColor=white" />
@@ -108,21 +106,23 @@ Here are the projects that best represent my hands‑on skills:
 </p>
 
 ---
-# 🧩 Skills Snapshot
 
-- *Infrastructure:* Windows Server, Active Directory, Group Policy, DNS  
-- *Cloud:* Azure AD, IAM, RBAC, identity security  
-- *Networking:* Subnetting, DHCP, routing basics, packet analysis  
-- *Security:* Hardening, misconfiguration analysis, attack paths, OSINT  
-- *Tools:* PowerShell, Wireshark, Nmap, VirtualBox, VMware  
-- *Documentation:* Diagrams, lab write-ups, troubleshooting notes  
+## 🧩 Skills Snapshot
+
+- **Infrastructure:** Windows Server, Active Directory, Group Policy, DNS  
+- **Cloud:** Azure AD, IAM, RBAC, identity security  
+- **Networking:** Subnetting, DHCP, routing basics, packet analysis  
+- **Security:** Hardening, misconfiguration analysis, attack paths, OSINT  
+- **Tools:** PowerShell, Wireshark, Nmap, VirtualBox, VMware  
+- **Documentation:** Diagrams, lab write‑ups, troubleshooting notes  
+
 ---
 
-# 💡 My Approach
+## 💡 My Approach
 
-I don’t just study IT — I **build it, break it, and rebuild it stronger**.
+I don’t just study IT — I **engineer environments**.
 
-Every project here simulates real enterprise environments, complete with:
+Every project simulates real enterprise conditions, complete with:
 
 - Misconfigurations  
 - Attack paths  
@@ -131,11 +131,11 @@ Every project here simulates real enterprise environments, complete with:
 - Diagrams  
 - Lessons learned  
 
-This is how I grow into a **Cloud / Systems Engineer**.
+This is how I grow into a **Cloud / Systems Engineer** who builds with intention and secures with clarity.
 
 ---
 
-# 🧭 How I Work
+## 🧭 How I Work
 
 - I learn by building real environments, not memorizing theory  
 - I document everything so others can follow my process  
@@ -145,7 +145,7 @@ This is how I grow into a **Cloud / Systems Engineer**.
 
 ---
 
-# 🌟 Why I’m Different
+## 🌟 Why I’m Different
 
 - I combine creativity (aviation analogies) with deep technical work  
 - I build full environments, not isolated labs  
@@ -154,9 +154,9 @@ This is how I grow into a **Cloud / Systems Engineer**.
 - I’m building a cohesive learning universe — not random projects  
 
 ---
-# 📬 Let’s Connect
 
-- **LinkedIn:** www.linkedin.com/in/bessie-mullins-1ba343183  
-- **GitHub:** https://github.com/CloudByBessie  
+## 📬 Let’s Connect
 
+- **LinkedIn:** https://www.linkedin.com/in/bessie-mullins-1ba343183  
+- **GitHub:** https://github.com/CloudByBessie
 
